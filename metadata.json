@@ -1,0 +1,6 @@
+{
+  "name": "ClinicaSuite: Clinical Virtual-Office Multi-Agent Portal",
+  "description": "An integrated healthcare quality and clinical decision-support portal featuring six specialized AI agent rooms, parallel analytics processing, and executive risk dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
